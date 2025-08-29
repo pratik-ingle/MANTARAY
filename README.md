@@ -4,7 +4,7 @@ Modular, distributed platforms that use deformable surfaces to handle heterogene
 
 ## 🌐 Live Demo
 
-Visit our project webpage: [https://pratik-ingle.github.io/mantaray/](https://pratik-ingle.github.io/mantaray/)
+Visit our project webpage: [https://pratik-ingle.github.io/mantaray/](https://pratik-ingle.github.io/mantaray.github.io/)
 
 ## 📄 About
 
