@@ -36,12 +36,14 @@ This repository contains the source code and assets for the MANTA-RAY project we
 To run this project locally:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/pratik-ingle/MANTARAY.git
    cd MANTARAY
    ```
 
 2. Open `index.html` in your web browser or serve it using a local web server:
+
    ```bash
    python -m http.server 8000
    # or
